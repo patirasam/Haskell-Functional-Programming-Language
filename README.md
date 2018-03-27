@@ -1,2 +1,2 @@
 # Haskell-Functional-Programming-Language
-To explore and learn Haskell.
+To explore and learn functional programming language, Haskell.
